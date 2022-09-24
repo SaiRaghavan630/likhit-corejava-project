@@ -1,0 +1,56 @@
+[INFO ] 2022-09-23 16:36:37.004 [main]  - service class no arg constructor called
+[INFO ] 2022-09-23 16:36:59.715 [main]  - Employee [firstName=likhit, lastName=puvvada, address=8/9-c4, phoneNumber=9876543212, dateOfBirth=2345-08-01, weddingDate=5463-09-02, emailAddress=likhit23@gmail.com]
+[INFO ] 2022-09-23 16:39:10.231 [main]  - is employee data updatedtrue
+[INFO ] 2022-09-23 16:42:53.462 [main]  - service class no arg constructor called
+[INFO ] 2022-09-23 16:45:03.095 [main]  - service class no arg constructor called
+[INFO ] 2022-09-23 16:45:14.678 [main]  - is employee record deleted:true
+[INFO ] 2022-09-23 17:31:09.001 [main]  - service class no arg constructor called
+[INFO ] 2022-09-23 17:31:11.669 [main]  - employee firstname:ertyuiemployee phonenumber9876543219
+[INFO ] 2022-09-23 17:31:11.670 [main]  - employee firstname:likhitemployee phonenumber9876543212
+[INFO ] 2022-09-23 17:31:11.670 [main]  - employee firstname:mjuyemployee phonenumber9876543214
+[INFO ] 2022-09-23 17:31:11.670 [main]  - employee firstname:dfgemployee phonenumber1234567891
+[INFO ] 2022-09-23 17:31:11.670 [main]  - employee firstname:puyytremployee phonenumber9999999999
+[INFO ] 2022-09-23 17:31:51.247 [main]  - service class no arg constructor called
+[INFO ] 2022-09-23 17:31:54.669 [main]  - employee firstname:ertyui employee phonenumber:9876543219
+[INFO ] 2022-09-23 17:31:54.670 [main]  - employee firstname:likhit employee phonenumber:9876543212
+[INFO ] 2022-09-23 17:31:54.670 [main]  - employee firstname:mjuy employee phonenumber:9876543214
+[INFO ] 2022-09-23 17:31:54.670 [main]  - employee firstname:dfg employee phonenumber:1234567891
+[INFO ] 2022-09-23 17:31:54.670 [main]  - employee firstname:puyytr employee phonenumber:9999999999
+[INFO ] 2022-09-23 18:20:26.807 [main]  - service class no arg constructor called
+[INFO ] 2022-09-23 18:21:03.078 [main]  - is record added:true
+[INFO ] 2022-09-23 18:21:16.348 [main]  - Employee [firstName=likhit, lastName=puvvada, address=8/9-c4, phoneNumber=9876543212, dateOfBirth=2345-08-01, weddingDate=5463-09-02, emailAddress=likhit23@gmail.com]
+[INFO ] 2022-09-23 18:21:23.581 [main]  - employee firstname:ertyui employee phonenumber:9876543219
+[INFO ] 2022-09-23 18:21:23.581 [main]  - employee firstname:likhit employee phonenumber:9876543212
+[INFO ] 2022-09-23 18:21:23.581 [main]  - employee firstname:mjuy employee phonenumber:9876543214
+[INFO ] 2022-09-23 18:21:23.581 [main]  - employee firstname:dfg employee phonenumber:1234567891
+[INFO ] 2022-09-23 18:21:23.581 [main]  - employee firstname:puyytr employee phonenumber:9999999999
+[INFO ] 2022-09-23 18:22:24.635 [main]  - is employee data updated:true
+[INFO ] 2022-09-23 18:23:26.355 [main]  - is employee record deleted:true
+[INFO ] 2022-09-23 18:24:19.992 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 00:57:43.047 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 01:00:09.053 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 01:01:27.395 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 01:02:32.050 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 07:54:17.051 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 07:57:33.011 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 07:58:53.855 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 08:00:20.919 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 08:13:22.192 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 08:27:30.603 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 08:28:55.406 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 08:29:36.660 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 08:30:22.960 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 08:30:50.846 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 08:32:12.274 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 08:33:06.270 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 08:43:25.642 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 08:55:06.150 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 09:12:35.911 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 09:13:12.183 [main]  - is record added:true
+[INFO ] 2022-09-24 09:14:53.510 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 09:15:13.881 [main]  - is employee record deleted:true
+[INFO ] 2022-09-24 09:15:53.480 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 09:16:08.918 [main]  - is employee record deleted:true
+[INFO ] 2022-09-24 09:19:43.005 [main]  - service class no arg constructor called
+[INFO ] 2022-09-24 09:22:59.884 [main]  - is employee record deleted:true
+[INFO ] 2022-09-24 09:28:12.150 [main]  - service class no arg constructor called
